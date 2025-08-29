@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Gilbert Mutai — Cloud DevOps Engineer
+# Hi there 👋, I'm Gilbert Mutai — Cloud | DevOps Engineer
 
 ---
 
